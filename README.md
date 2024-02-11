@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu portfólio.
+# Olá, Bem vindo ao meu portfólio.
 Trabalhando a responsividade..
 
 ![Captura de tela 2024-02-10 184815](https://github.com/lucasvilela91/Project-mobile-first/assets/152106763/66ea5df0-7d6c-4729-8c52-51820bd4aea0)
